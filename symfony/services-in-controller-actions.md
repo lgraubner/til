@@ -1,11 +1,6 @@
----
-categories:
-    - php
-    - symfony
-date: 2018-01-09T00:00:00+00:00
----
+# Services in controller actions
 
-## Don't use Symfony autowiring for controllers
+As of Symfony 3.3 everything is a service, even controllers. But instead of initializing services to use in the constructor they should be fetched in the corresponding controller action.
 
 Bad:
 
@@ -39,7 +34,3 @@ class ExampleControler extends Controller
 ```
 
 Why? In the first example the service gets instantiated on every route even if it's not used.
-
-##  Symfony User object
-
-You can do `$this->getUser()` when authenticated and get the authenticated User Model.

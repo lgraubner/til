@@ -1,12 +1,6 @@
----
-categories:
-    - javascript
-date: 2018-01-10T00:00:00+00:00
----
+# Custom errors with ES6
 
-## Create custom JavaScript errors with ES6
-
-Extend from the following to get custom errors with useful stacktrace.
+You can easily create custom errors by extend the native error with ES6. Extend from the following to get custom errors with useful stacktrace.
 
 ```javascript
 class ExtendableError extends Error {
