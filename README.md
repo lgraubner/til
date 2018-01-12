@@ -31,4 +31,4 @@ _4 TILs and counting..._
 ### Symfony
 
 * [Get user object](symfony/get-user-object.md)
-* [Services in controller actions](symonfy/services-in-controller-actions.md)
+* [Services in controller actions](symfony/services-in-controller-actions.md)
