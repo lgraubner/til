@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_597 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
