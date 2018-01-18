@@ -20,7 +20,7 @@ _5 TILs and counting..._
 * [Symfony](#symfony)
 
 ---
-y<>
+
 ### JavaScript
 
 * [Custom errors with ES6](javascript/custom-errors-with-es6.md)
