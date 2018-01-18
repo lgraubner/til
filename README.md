@@ -8,13 +8,14 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [JavaScript](#javascript)
+* [MacOS](#macos)
 * [Redux](#redux)
 * [Symfony](#symfony)
 
@@ -23,6 +24,10 @@ _4 TILs and counting..._
 ### JavaScript
 
 * [Custom errors with ES6](javascript/custom-errors-with-es6.md)
+
+### MacOS
+
+* [Show hidden files with shortcut](macos/show-hidden-files-with-shortcut.md)
 
 ### Redux
 
