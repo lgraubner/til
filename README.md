@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _5 TILs and counting..._
 
 * [JavaScript](#javascript)
 * [MacOS](#macos)
+* [PHP](#php)
 * [Redux](#redux)
 * [Symfony](#symfony)
 
@@ -28,6 +29,10 @@ _5 TILs and counting..._
 ### MacOS
 
 * [Show hidden files with shortcut](macos/show-hidden-files-with-shortcut.md)
+
+### PHP
+
+* [Static constant to resolve class name](php/static-constant-to-resolve-class-name.md)
 
 ### Redux
 
