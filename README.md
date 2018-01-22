@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_6 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _6 TILs and counting..._
 * [PHP](#php)
 * [Redux](#redux)
 * [Symfony](#symfony)
+* [Twig](#twig)
 
 ---
 
@@ -41,4 +42,9 @@ _6 TILs and counting..._
 ### Symfony
 
 * [Get user object](symfony/get-user-object.md)
+* [Get current request from request stack](symfony/get-current-request-from-request-stack.md)
 * [Services in controller actions](symfony/services-in-controller-actions.md)
+
+### YAML
+
+* [Multiline variables](yaml/multiline-variables.md)
