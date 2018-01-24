@@ -15,6 +15,7 @@ _9 TILs and counting..._
 ### Categories
 
 * [JavaScript](#javascript)
+* [JWT](#jwt)
 * [MacOS](#macos)
 * [PHP](#php)
 * [Redux](#redux)
