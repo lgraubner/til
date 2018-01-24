@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -26,6 +26,10 @@ _8 TILs and counting..._
 ### JavaScript
 
 * [Custom errors with ES6](javascript/custom-errors-with-es6.md)
+
+### JWT
+
+* [Refresh tokens can be revoked](jwt/refresh-tokens-can-be-revoked.md)
 
 ### MacOS
 
