@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _9 TILs and counting..._
 ### JavaScript
 
 * [Custom errors with ES6](javascript/custom-errors-with-es6.md)
+* [Debounce can be canceled](javascript/debounce-can-be-canceled.md)
 
 ### JWT
 
