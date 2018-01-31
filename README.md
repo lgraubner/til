@@ -8,12 +8,13 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Git](#git)
 * [JavaScript](#javascript)
 * [JWT](#jwt)
 * [MacOS](#macos)
@@ -23,6 +24,10 @@ _10 TILs and counting..._
 * [Twig](#twig)
 
 ---
+
+### Git
+
+* [Add multi command aliases](git/add-multi-command-aliases.md)
 
 ### JavaScript
 
