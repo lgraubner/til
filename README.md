@@ -54,7 +54,7 @@ _12 TILs and counting..._
 
 * [Get user object](symfony/get-user-object.md)
 * [Get current request from request stack](symfony/get-current-request-from-request-stack.md)
-* [JSM Serializer naming strategy](symfony/jms-serializer-naming-strategy.md)
+* [JMS Serializer naming strategy](symfony/jms-serializer-naming-strategy.md)
 * [Services in controller actions](symfony/services-in-controller-actions.md)
 
 ### YAML
