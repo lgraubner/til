@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _12 TILs and counting..._
 
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Jest](#jest)
 * [JWT](#jwt)
 * [MacOS](#macos)
 * [PHP](#php)
@@ -33,6 +34,10 @@ _12 TILs and counting..._
 
 * [Custom errors with ES6](javascript/custom-errors-with-es6.md)
 * [Debounce can be canceled](javascript/debounce-can-be-canceled.md)
+
+### jest
+
+* [Third party modules can be easily mocked](jest/third-party-modules-can-be-easily-mocked.md)
 
 ### JWT
 
