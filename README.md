@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _13 TILs and counting..._
 * [JWT](#jwt)
 * [MacOS](#macos)
 * [PHP](#php)
+* [React](#react)
 * [Redux](#redux)
 * [Symfony](#symfony)
 * [Twig](#twig)
@@ -50,6 +51,10 @@ _13 TILs and counting..._
 ### PHP
 
 * [Static constant to resolve class name](php/static-constant-to-resolve-class-name.md)
+
+### React
+
+* [Class properties have access to props](react/class-properties-have-access-to-props.md)
 
 ### Redux
 
