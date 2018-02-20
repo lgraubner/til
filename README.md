@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _14 TILs and counting..._
 
 * [Custom errors with ES6](javascript/custom-errors-with-es6.md)
 * [Debounce can be canceled](javascript/debounce-can-be-canceled.md)
+* [Encode and decode Base64 strings](javascript/encode-and-decode-base64-strings.md)
 
 ### jest
 
