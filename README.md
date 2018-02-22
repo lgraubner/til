@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _15 TILs and counting..._
 * [Jest](#jest)
 * [JWT](#jwt)
 * [MacOS](#macos)
+* [NPM](#npm)
 * [PHP](#php)
 * [React](#react)
 * [Redux](#redux)
@@ -48,6 +49,10 @@ _15 TILs and counting..._
 ### MacOS
 
 * [Show hidden files with shortcut](macos/show-hidden-files-with-shortcut.md)
+
+### NPM
+
+* [Check and update dependencies](npm/check-and-update-dependencies.md)
 
 ### PHP
 
