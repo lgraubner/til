@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -69,6 +69,7 @@ _17 TILs and counting..._
 
 ### Symfony
 
+* [Escape @ in parameters](symfony/escape-at-in-parameters.md)
 * [Get user object](symfony/get-user-object.md)
 * [Get current request from request stack](symfony/get-current-request-from-request-stack.md)
 * [JMS Serializer naming strategy](symfony/jms-serializer-naming-strategy.md)
