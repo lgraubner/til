@@ -6,6 +6,7 @@ Sometimes it's useful to increase the local PHP memory limit. For example a loca
 # Find used php.ini
 php -r 'phpinfo();' | grep 'php.ini'
 
+# edit php.ini
 sudo vim /path/to/php.ini # set memory_limit = -1 (unlimited)
 
 # check if it worked
