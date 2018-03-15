@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -57,6 +57,7 @@ _18 TILs and counting..._
 
 ### PHP
 
+* [Increase MacOS PHP memory limit](php/increase-macos-php-memory-limit.md)
 * [Static constant to resolve class name](php/static-constant-to-resolve-class-name.md)
 
 ### React
