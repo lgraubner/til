@@ -21,6 +21,7 @@ _20 TILs and counting..._
 * [MacOS](#macos)
 * [NPM](#npm)
 * [PHP](#php)
+* [Raspberry Pi](#raspberry-pi)
 * [React](#react)
 * [Redux](#redux)
 * [Symfony](#symfony)
