@@ -8,12 +8,13 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Bash](#bash)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Jest](#jest)
@@ -28,6 +29,10 @@ _22 TILs and counting..._
 * [Twig](#twig)
 
 ---
+
+### Bash
+
+* [Redirection append vs overwrite](bash/redirection-append-vs-overwrite.md)
 
 ### Git
 
