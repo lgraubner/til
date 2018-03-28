@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -71,6 +71,7 @@ _23 TILs and counting..._
 * [Change hostname](raspberrypi/change-hostname.md)
 * [Enable SSH headless](raspberrypi/enable-ssh-headless.md)
 * [Set static IP](raspberrypi/set-static-ip.md)
+* [ssh-copy-id](raspberry-pi/ssh-copy-id.md)
 
 ### React
 
