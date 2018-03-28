@@ -71,7 +71,7 @@ _24 TILs and counting..._
 * [Change hostname](raspberrypi/change-hostname.md)
 * [Enable SSH headless](raspberrypi/enable-ssh-headless.md)
 * [Set static IP](raspberrypi/set-static-ip.md)
-* [ssh-copy-id](raspberry-pi/ssh-copy-id.md)
+* [ssh-copy-id](raspberrypi/ssh-copy-id.md)
 
 ### React
 
