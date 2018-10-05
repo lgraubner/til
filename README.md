@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -60,6 +60,7 @@ _25 TILs and counting..._
 ### NPM
 
 * [Check and update dependencies](npm/check-and-update-dependencies.md)
+* [package-repository-shorthand](npm/package-repository-shorthand.md)
 
 ### PHP
 
