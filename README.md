@@ -60,7 +60,7 @@ _26 TILs and counting..._
 ### NPM
 
 * [Check and update dependencies](npm/check-and-update-dependencies.md)
-* [package-repository-shorthand](npm/package-repository-shorthand.md)
+* [Package.json repository shorthand](npm/package-repository-shorthand.md)
 
 ### PHP
 

@@ -1,4 +1,4 @@
-# package.json repository shorthand
+# Package.json repository shorthand
 
 You can use a repository shorthand for repositories hosted on Github, Bitbucket or GitLab.
 
