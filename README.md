@@ -23,6 +23,7 @@ _26 TILs and counting..._
 * [NPM](#npm)
 * [PHP](#php)
 * [Raspberry Pi](#raspberry-pi)
+* [Ruby](#ruby)
 * [React](#react)
 * [Redux](#redux)
 * [Symfony](#symfony)
@@ -74,6 +75,10 @@ _26 TILs and counting..._
 * [Set static IP](raspberrypi/set-static-ip.md)
 * [ssh-copy-id](raspberrypi/ssh-copy-id.md)
 * [Synchronize time with NTP](raspberrypi/synchronize-time-with-ntp.md)
+
+### Ruby
+
+* [Use rbenv to manage Ruby on MacOS](use-rbenv-to-manage-ruby-on-macos.md)
 
 ### React
 
