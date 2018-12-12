@@ -78,7 +78,7 @@ _27 TILs and counting..._
 
 ### Ruby
 
-* [Use rbenv to manage Ruby on MacOS](use-rbenv-to-manage-ruby-on-macos.md)
+* [Use rbenv to manage Ruby on MacOS](ruby/use-rbenv-to-manage-ruby-on-macos.md)
 
 ### React
 
