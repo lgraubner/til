@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _27 TILs and counting..._
 * [Redux](#redux)
 * [Symfony](#symfony)
 * [Twig](#twig)
+* [Unix](#unix)
 
 ---
 
@@ -99,3 +100,7 @@ _27 TILs and counting..._
 ### YAML
 
 * [Multiline variables](yaml/multiline-variables.md)
+
+### Unix
+
+* [Watching files with tail](unix/watching-files-with-tail.md)
