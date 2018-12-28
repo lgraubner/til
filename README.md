@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
@@ -103,4 +103,5 @@ _28 TILs and counting..._
 
 ### Unix
 
+* [Prepend line to file](unix/prepend-line-to-file.md)
 * [Watching files with tail](unix/watching-files-with-tail.md)
