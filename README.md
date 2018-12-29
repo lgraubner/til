@@ -103,5 +103,6 @@ _29 TILs and counting..._
 
 ### Unix
 
+* [Add current date to filename](unix/add-current-date-to-filename.md)
 * [Prepend line to file](unix/prepend-line-to-file.md)
 * [Watching files with tail](unix/watching-files-with-tail.md)
