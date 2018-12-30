@@ -8,7 +8,7 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _29 TILs and counting..._
 * [Jest](#jest)
 * [JWT](#jwt)
 * [MacOS](#macos)
+* [MySQL](#mysql)
 * [NPM](#npm)
 * [PHP](#php)
 * [Raspberry Pi](#raspberry-pi)
@@ -58,6 +59,10 @@ _29 TILs and counting..._
 ### MacOS
 
 * [Show hidden files with shortcut](macos/show-hidden-files-with-shortcut.md)
+
+### MySQL
+
+* [Specify credentials in file](mysql/specify-credentials-in-file.md)
 
 ### NPM
 
