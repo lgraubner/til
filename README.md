@@ -8,13 +8,14 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [Docker Compose](#docker-compose)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Jest](#jest)
@@ -36,6 +37,10 @@ _31 TILs and counting..._
 ### Bash
 
 * [Redirection append vs overwrite](bash/redirection-append-vs-overwrite.md)
+
+### Docker Compose
+
+* [Reflect node_modules changes in container](docker-compose/reflect-node-modules-changes-in-container.md)
 
 ### Git
 
